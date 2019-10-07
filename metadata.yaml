@@ -1,0 +1,32 @@
+_repo: Nella-nebbia_60382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sperani, Bruno
+    aliases:
+    - Speraz, Beatrice
+    - Speraz, Bice
+    birthdate: 1839
+    deathdate: 1923
+    gutenberg_agent_id: '34271'
+    url: http://www.gutenberg.org/2009/agents/34271
+    wikipedia: https://it.wikipedia.org/wiki/Beatrice_Speraz
+description: ''
+gutenberg_issued: '2019-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60382'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Inutile! -- Vecchioni increduli -- Intuizioni oscure -- Un desinare
+  -- Nella buona Società -- Il primo incontro col Mostro -- La Cristina -- Al Pianoforte
+  -- Una ballerina -- Una istitutrice -- Due Case.
+title: Nella nebbia
+url: http://www.gutenberg.org/ebooks/60382
